@@ -1,3 +1,5 @@
+package leetcode.problems.q0338_countBits;
+
 public class Solution {
     public int[] countBits(int num) {
         int[] counts = new int[num+1];

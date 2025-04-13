@@ -1,3 +1,5 @@
+package leetcode.problems.q0413_numberOfArithmeticSlices;
+
 public class Solution {
     public int numberOfArithmeticSlices(int[] A) {
     	//method 1, math

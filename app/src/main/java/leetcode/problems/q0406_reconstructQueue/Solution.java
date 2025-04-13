@@ -1,3 +1,8 @@
+package leetcode.problems.q0406_reconstructQueue;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution {
     public int[][] reconstructQueue(int[][] people) {
         //greedy

@@ -1,3 +1,8 @@
+package leetcode.problems.q0448_findDisappearedNumbers;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         // //method 1

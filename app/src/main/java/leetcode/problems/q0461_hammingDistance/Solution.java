@@ -1,3 +1,5 @@
+package leetcode.problems.q0461_hammingDistance;
+
 public class Solution {
     public int hammingDistance(int x, int y) {
         // //method 1

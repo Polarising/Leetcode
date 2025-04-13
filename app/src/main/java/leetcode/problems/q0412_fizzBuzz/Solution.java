@@ -1,3 +1,8 @@
+package leetcode.problems.q0412_fizzBuzz;
+
+import java.util.ArrayList;
+import java.util.List;
+
 public class Solution {
     public List<String> fizzBuzz(int n) {
         List<String> result = new ArrayList<String>();

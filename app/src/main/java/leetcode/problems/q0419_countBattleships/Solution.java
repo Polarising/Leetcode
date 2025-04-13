@@ -1,3 +1,5 @@
+package leetcode.problems.q0419_countBattleships;
+
 public class Solution {
     public int countBattleships(char[][] board) {
         // //method 1
